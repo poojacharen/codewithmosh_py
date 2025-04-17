@@ -23,3 +23,4 @@ print("first code=", timeit(code1, number=10000))  # we have a keyword argument 
         # output : after running this code we got 10,000 messages saying Age cannot be 0 or less.
 
 # refer course again if any doubt cause mosh has duplicated the above code with code2 = ""
+# Also refer google for some exceptions
